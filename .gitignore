@@ -1,0 +1,22 @@
+### Executable ###
+*.app
+*.bat
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
+
+### Latex ###
+*.aux
+*.synctex.gz
+*.out
+*.out
+
+### Logs ###
+*.log
+
+.DS_Store
