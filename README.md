@@ -55,6 +55,10 @@ Para el desarrollo de esta aplicación, voy a utilizar una tecnología que no ha
     - [Pensar la viabilidad para el despliege](https://github.com/Aguilera4/Rooming/issues/22)
     - [Desplegar la APP en la nube.](https://github.com/Aguilera4/Rooming/issues/18)
 
+## Clases Implementadas
+
+Aqui se incluyen algunas [clases](https://github.com/Aguilera4/Rooming/tree/main/src) implementadas.
+
 ## Información adicional
 
 Enlace a la [descripción del proyecto](https://github.com/Aguilera4/Rooming/blob/main/docs/descripcion_rooming.md).
