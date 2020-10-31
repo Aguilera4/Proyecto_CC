@@ -9,17 +9,10 @@
 
 ## Arquitectura
 
-***Romming*** tendrá una arquitectura software basada en capas. Esta arquitectura permite cambios en las diferentes capas a un nivel de gran abstración, además, el diseño de esta arquitectura define con gran claridad la separación entre la funcionalidad de cada capa. Asimismo, las capas de nivel inferior no tienen ningun grado de dependencia de las capas superiores aportando a estas una gran reutilización.
 
-Esta arquitectura se dividirá en tres capas:
-
-- **Presentación (Navegador)**: relacionada con el lado del cliente (front-end).
-- **Servidor web**: se defienirá todo el enrutamiento del proyecto, así como todo el proceso de peticiones y respuestas.
-- **Servidor Base de datos**: implementarán toda la parte de acceso a los datos. 
+Tras analizar el funcionamiento de nuestra aplicación, ***Rooming*** va a estar basada en una arquitectura de microservicios, de esta forma se podrá llevar a cabo las distintas funciones de nuestra aplicación en servicios diferentes. Con esto queremos conseguir que nuestra aplicación tenga servicios independientes unos con los otros para aportar una mayor versatilidad a la misma, puediendo así modificar cualquier servicio sin afectar al resto.
 
 Para el desarrollo de esta aplicación, voy a utilizar una tecnología que no había empleado anteriormente pero que tengo un gran interés sobre su funcionamiento, ya que por la información que se puede recavar de Internet tiene un gran potencial para el desarrollo de aplicaciones. En concreto, voy a utilizar el framework o conjunto de subsistemas conocido como ***MERN Stack***, basado en el lenguaje de programación **JavaScript**. MERN Stack utiliza la librería ***ReactJS*** para la parte del ***front-end*** (aunque en este proyecto no se utiliza). Además, utiliza ***ExpressJS*** y ***NodeJS*** para la parte del servidor web (enrutamientos, peticones, respuestas, etc) y por último ***MongoDB*** para la parte backend de nuestra aplicación.
-
-![arquitectura](./docs/img_arquitectura/arquitectura.png)
 
 
 ## Plan de desarrollo
