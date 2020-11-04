@@ -1,11 +1,10 @@
 class User {
  
     // Constructor de la clase
-    constructor(name,email,city,password,tlfn,age){
+    constructor(name,email,city,tlfn,age){
         this.name = name;
         this.email = email;
         this.city = city;
-        this.password = password;
         this.tlfn = tlfn;
         this.age = age;
     }
