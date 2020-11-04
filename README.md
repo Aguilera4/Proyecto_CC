@@ -10,9 +10,11 @@
 ## Arquitectura
 
 
-Tras analizar el funcionamiento de nuestra aplicación, ***Rooming*** va a estar basada en una arquitectura de microservicios, de esta forma se podrá llevar a cabo las distintas funciones de nuestra aplicación en servicios diferentes. Con esto queremos conseguir que nuestra aplicación tenga servicios independientes unos con los otros para aportar una mayor versatilidad a la misma, pudiendo así modificar cualquier servicio sin afectar al resto. Los servicios se comunicarán a través de APIs. Alguno de esto servicios son la administración de una habitación y la gestión del chat de una habitación.
+La aplicación ***Rooming*** va a estar basada en una arquitectura de microservicios, de esta forma se podrá llevar a cabo las distintas funciones de nuestra aplicación en servicios diferentes. Con esto queremos conseguir que nuestra aplicación tenga servicios independientes unos con los otros para aportar una mayor versatilidad a la misma, pudiendo así modificar cualquier servicio sin afectar al resto.
 
-Para el desarrollo de esta aplicación, voy a utilizar una tecnología que no había empleado anteriormente pero que tengo un gran interés sobre su funcionamiento, ya que por la información que se puede recavar de Internet tiene un gran potencial para el desarrollo de aplicaciones. En concreto, voy a utilizar el framework o conjunto de subsistemas conocido como ***MERN Stack***, basado en el lenguaje de programación **JavaScript**. MERN Stack utiliza la librería ***ReactJS*** para la parte del ***front-end*** (aunque en este proyecto no se utiliza). Además, utiliza ***ExpressJS*** y ***NodeJS*** para la parte del servidor web (enrutamientos, peticones, respuestas, etc) y por último ***MongoDB*** para la parte backend de nuestra aplicación.
+La decisión de utilizar esta arquitectura se ha tomado viendo la estructura que tiene nuestra aplicación, donde por una parte tenemos toda la gestión referente a una habitación o vivienda (incluyendo, creación solicitud, modificación, etc), por otra parte tenemos la funcionalidad de comunicación (chat) entre los integrantes de una habitación y por último el sistema de valoración para un usuario. Estos tres servicios compondrían nuestra arquitectura.
+
+Para el desarrollo de esta aplicación se ha decidio utilizar el lenguaje de programación JavaScript, más concretamente trabajando sobre el entorno de ejecución **NodeJS** ya que aparte de poseer cierta habilidad sobre el mismo, **Nodejs** nos permite desarrollar aplicaciones con una gran escabilidad, así como desarrollar en un corto periodo de tiempo. 
 
 
 ## Milestone
