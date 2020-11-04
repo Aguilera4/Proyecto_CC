@@ -108,5 +108,4 @@ Aqui se incluyen algunas [clases](https://github.com/Aguilera4/Rooming/tree/main
 
 Enlace a la [descripción del proyecto](https://github.com/Aguilera4/Rooming/blob/main/docs/descripcion_rooming.md).
 
-Sobre [MERN Stack](https://www.mongodb.com/mern-stack).
-Sobre [arquitectura basada en capas](https://geeks.ms/jkpelaez/2009/05/30/arquitectura-basada-en-capas/#:~:text=La%20arquitectura%20basada%20en%20capas,funcionalidad%20que%20est%C3%A1%20siendo%20desarrollada.)
+Porque utilizar NodeJS. [Información](https://relevant.software/blog/7-benefits-of-node-js-for-startups/)
