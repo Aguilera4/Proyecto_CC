@@ -22,4 +22,5 @@ class ChatRoom {
     modifyComment(new_comment){
         this.comment_text = new_comment;
     }
+    
 }
