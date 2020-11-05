@@ -2,3 +2,4 @@ entidad:
  - src/chatRoom.js
  - src/room.js
  - src/user.js
+ - src/valoracion.js
