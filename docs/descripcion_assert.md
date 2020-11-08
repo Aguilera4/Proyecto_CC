@@ -26,7 +26,7 @@ Para la instalación de ***should.js*** debemos ejecutar la siguiente sentencia:
 
 Esto añadirá a nuestro ***package.json*** la dependendia correspondiente.
 
-![shouldjs](./img/img_hito2/shouldjs.png)
+![shouldjs](./img/img_hito2/depencencias_hito2.png)
 
 
 #### Información adicional
