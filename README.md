@@ -14,14 +14,14 @@
 - :triangular_ruler: Arquitectura y herramientas utilizadas. [Arquitectura](https://aguilera4.github.io/Rooming/docs/arquitectura)
 - :pencil:Milestone y *issues*. [Milestone](https://aguilera4.github.io/Rooming/docs/milestone)
 - :wrench: Roadmap. [Roadmap](https://aguilera4.github.io/Rooming/docs/roadmap)
-- :hammer: Configuración del proyecto. [Configuracion](https://aguilera4.github.io/Rooming/docs/README)
+- :hammer: Configuración del proyecto. [Configuracion](https://aguilera4.github.io/Rooming/docs/)
 
 
 ### Documentación en desarrollo
 
-- Herramienta de gestor de tareas seleccionado. [Gestor de tareas](https://github.com/Aguilera4/Rooming/blob/hito_2/docs/gestor_tareas.md)
-- Descripción y justificación de la biblioteca de aserción utilizada. [Biblioteca de aserción](https://github.com/Aguilera4/Rooming/blob/hito_2/docs/descripcion_assert.md)
-- Marco de pruebas. [Marco](https://github.com/Aguilera4/Rooming/blob/hito_2/docs/descripcion_tests.md)
+- Herramienta de gestor de tareas seleccionado. [Gestor de tareas](https://aguilera4.github.io/Rooming/docs/gestor_tareas)
+- Descripción y justificación de la biblioteca de aserción utilizada. [Biblioteca de aserción](https://aguilera4.github.io/Rooming/docs/descripcion_assert)
+- Marco de pruebas. [Marco](https://aguilera4.github.io/Rooming/docs/descripcion_tests)
 
 
 ### Clases Implementadas
