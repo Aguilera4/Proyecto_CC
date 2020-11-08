@@ -4,7 +4,7 @@
 
 Instalamos la última versión de git en nuestra distribución Linux.
 
-![Captura_instalacion_git](./img_hito0/gitVersion.png)
+![Captura_instalacion_git](./img/img_hito0/gitVersion.png)
 
 ---
 
@@ -12,7 +12,7 @@ Instalamos la última versión de git en nuestra distribución Linux.
 
 Se ha configurado git para establecer conexión con el servidor a través de ssh, evitandonos costos de tiempo (ingresando nick y password a través de https). Esto se ha conseguido generando un par de claves en nuestra computadora y subiendo la clave pública a nuestra cuenta de github.
 
-![Captura_ssh_key](./img_hito0/sshKey.png)
+![Captura_ssh_key](./img/img_hito0/sshKey.png)
 
 ---
 
@@ -20,7 +20,7 @@ Se ha configurado git para establecer conexión con el servidor a través de ssh
 
 Configuramos git con nuestro nombre de usuario y correo electrónico. También podemos ver configuraciones de actualizaciones remotas que se especifican en la documentación.
 
-![Captura_configuracion_git](./img_hito0/configuracionGit.png)
+![Captura_configuracion_git](./img/img_hito0/configuracionGit.png)
 
 ---
 
@@ -28,7 +28,7 @@ Configuramos git con nuestro nombre de usuario y correo electrónico. También p
 
 Establecemos una configuración básica de nuestro perfil.
 
-![Perfil_git](./img_hito0/perfilGit.png)
+![Perfil_git](./img/img_hito0/perfilGit.png)
 
 ---
 
@@ -36,4 +36,4 @@ Establecemos una configuración básica de nuestro perfil.
 
 Establecemos el factor de doble autenticación para aportar una mayor seguridad a nuestra cuenta de github. Este proceso se ha realizado con la app *Microsoft Authenticator*.
 
-![doble_autenticacion](./img_hito0/autenticacionDoble.png)
+![doble_autenticacion](./img/img_hito0/autenticacionDoble.png)
