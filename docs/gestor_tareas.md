@@ -30,7 +30,7 @@ Para la instalación de la dependencia en nuestro **package.json** ejecutar el c
 
 Vemos como queda declarada la dependencia en nuestro **.json**.
 
-![gulp](./img/img_hito2/gulp.png)
+![gulp](./img/img_hito2/depencencias_hito2.png)
 
 Ahora creamos un archivo gulpfile.js en la raíz del directorio el cual contendra todas las tareas que definamos.
 
