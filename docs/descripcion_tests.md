@@ -30,7 +30,7 @@ Por otro lado, presenta diversas ventajas sobre el resto de marcos como por ejem
 
 En cuanto a la isntalación de mocha en nuestro proyecto, debemos ejecutar el comando `$ npm install mocha --save-dev ` que añadirá la dependencia a nuestro **.json**.
 
-![mocha](./img/img_hito2/mocha.png)
+![mocha](./img/img_hito2/depencencias_hito2.png)
 
 
 #### Información adicional
