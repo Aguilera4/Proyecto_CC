@@ -2,7 +2,7 @@
 
 Los siguientes milestone y issues componen la estructura base de nuestro proyecto.
 
-- [Estructuración del Proyecto](https://github.com/Aguilera4/Rooming/milestone/2)
+- [Hito 1](https://github.com/Aguilera4/Rooming/milestone/2)
     
     - [Subir información concreta de la arquitectura](https://github.com/Aguilera4/Rooming/issues/7)
     - [Crear las historias de usuario.](https://github.com/Aguilera4/Rooming/issues/9)
@@ -10,7 +10,7 @@ Los siguientes milestone y issues componen la estructura base de nuestro proyect
     - [Crear fichero de identificación yml para las clases sin código.](https://github.com/Aguilera4/Rooming/issues/14)
 
 
-- [Funcionalidades de los usuarios](https://github.com/Aguilera4/Rooming/milestone/5)
+- [Utilizar el sistema](https://github.com/Aguilera4/Rooming/milestone/5)
     - [[HU1] Creación de un perfil de usuario.](https://github.com/Aguilera4/Rooming/issues/10)
     - [[HU2] Solicitar una habitación](https://github.com/Aguilera4/Rooming/issues/12)
     - [[HU3] Borrarme de una habitación](https://github.com/Aguilera4/Rooming/issues/15)
@@ -19,7 +19,7 @@ Los siguientes milestone y issues componen la estructura base de nuestro proyect
     - [[HU10] Aceptar la solicitud de inscripción de un usuario.](https://github.com/Aguilera4/Rooming/issues/33)
     - [[HU17] Obtener información del usuario](https://github.com/Aguilera4/Rooming/issues/39)
 
-- [Administración de las Habitaciones](https://github.com/Aguilera4/Rooming/milestone/6)
+- [Compartir habitaciones con los usuarios](https://github.com/Aguilera4/Rooming/milestone/6)
     - [[HU5] Solicitar la creación de un post de una vivienda o habitación.](https://github.com/Aguilera4/Rooming/issues/11)
     - [[HU6] Aceptar la creación del post.](https://github.com/Aguilera4/Rooming/issues/31)
     - [[HU7] Eliminar el post de una habitación o vivienda.](https://github.com/Aguilera4/Rooming/issues/16)
@@ -28,12 +28,12 @@ Los siguientes milestone y issues componen la estructura base de nuestro proyect
     - [[HU16] Obtener información de la vivienda/habitación.](https://github.com/Aguilera4/Rooming/issues/37)
 
 
-- [Desarrollo Chat de Habitación](https://github.com/Aguilera4/Rooming/milestone/7)
+- [Comunicación entre los usuarios de una habitación](https://github.com/Aguilera4/Rooming/milestone/7)
     - [[HU11] Añadir comentario en un post.](https://github.com/Aguilera4/Rooming/issues/13)
     - [[HU12] Comprobar comentario indebidos/ofensivos.](https://github.com/Aguilera4/Rooming/issues/21)
 
 
-- [Sistema de valoración de usuario](https://github.com/Aguilera4/Rooming/milestone/9)
+- [Valorar a un usuario](https://github.com/Aguilera4/Rooming/milestone/9)
     - [[HU18] Crear valoración para un usuario.](https://github.com/Aguilera4/Rooming/issues/43)
     - [[HU19] Obtener valoración del usuario.](https://github.com/Aguilera4/Rooming/issues/45)
     - [[HU20] Eliminar valoración de un usuario.](https://github.com/Aguilera4/Rooming/issues/46)
